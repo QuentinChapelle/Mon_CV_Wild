@@ -11,17 +11,17 @@ body {
 	
 }
 
-.container {
+#container {
 	display: inline-flex;
 }
 
-.left-box {
+#left-box {
 	background-color: rgb(9, 30, 45);
 	width: 330px;
 	color: white;
-}
 
-.right-box {
+}
+#right-box {
 	background-color: rgb(9, 30, 45);
 	width: 900px;
 	margin: 0px 30px 0px 0px;
@@ -37,7 +37,7 @@ img {
 }
 
 
-.experiences-box {
+#experiences-box {
 	background-color: white;
 	width: 700px;
 	border-radius: 30px;
@@ -46,7 +46,7 @@ img {
 
 }
 
-.studies-box{
+#studies-box{
 	background-color: white;
 	width: 700px;
 	margin-left: 50px;
@@ -56,6 +56,6 @@ img {
 
 }
 
-.valid {
+#valid {
 	color: green;
 }
